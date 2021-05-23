@@ -3684,6 +3684,9 @@ readers do not read off random characters that represent icons */
 .fa-symfony:before {
   content: "\f83d"; }
 
+.fa-swift:before {
+  content: "\f8e1"; }
+
 .fa-synagogue:before {
   content: "\f69b"; }
 
